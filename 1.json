@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/imyatin/test/refs/heads/main/1.yaml",
+    "url": "https://raw.githubusercontent.com/imyatin/test/refs/heads/main/2.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/imyatin/test/refs/heads/main/1.yaml",
+            "url": "https://raw.githubusercontent.com/imyatin/test/refs/heads/main/2.yaml",
             "name": "Fo"
         }
     ]
